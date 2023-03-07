@@ -5,7 +5,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-df_train = pd.read_csv('/content/train.csv')
+df_train = pd.read_csv('train.csv')
 
 """## Exploratory Data Analysis"""
 
